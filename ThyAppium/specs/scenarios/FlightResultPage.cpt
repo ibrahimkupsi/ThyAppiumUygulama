@@ -1,0 +1,14 @@
+Created by testinium on 2.06.2021
+
+This is a concept file with following syntax for each concept.
+#Uçuşların listelendiği kontrol edilir
+*Uçuş liste kontrol
+*"3" saniye bekle
+
+#Ekonomik uçuş seçilir
+*Ekonomik Uçuş seç
+*"3" saniye bekle
+
+#Devam Butonuna tıkla
+*Devam Butonuna tıklanır
+*"3" saniye bekle
